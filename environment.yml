@@ -1,0 +1,16 @@
+name: PspCas12f_binder
+channels:
+  - conda-forge
+  - schrodinger
+  - bioconda
+  - defaults
+dependencies:
+ # 基础Python环境
+  - python=3.10
+  - pymol-bundle
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - scipy==1.13.1
+      - pandas==2.3.1
+
