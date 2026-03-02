@@ -8,7 +8,7 @@ conda install -y -c https://conda.rosettacommons.org -c conda-forge pyrosetta
 # Strategy1:Homology-based design
 ```bash
 cd Stragegy1
-python Blast_feature.py
+python3.10 Blast_feature.py
 ```
 # Strategy3-5:Structure-informed rational design
 ```bash
