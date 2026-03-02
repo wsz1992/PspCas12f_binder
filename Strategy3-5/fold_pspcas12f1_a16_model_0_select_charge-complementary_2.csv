@@ -1,0 +1,8 @@
+274R,protein_pdb:274A,dna_pdb:20C,protein_res:274,dna_res:948,protein_type:ARG,dna_type:GUA,charge_complementary:True,energy:-0.6130696062940704
+154R,protein_pdb:154A,dna_pdb:6D,protein_res:154,dna_res:974,protein_type:ARG,dna_type:GUA,charge_complementary:True,energy:-2.011734028353701
+154R,protein_pdb:154A,dna_pdb:7D,protein_res:154,dna_res:975,protein_type:ARG,dna_type:GUA,charge_complementary:True,energy:-0.57584115946414
+345R,protein_pdb:345A,dna_pdb:26C,protein_res:345,dna_res:954,protein_type:ARG,dna_type:ADE,charge_complementary:True,energy:-1.0511299152895337
+345R,protein_pdb:345A,dna_pdb:27C,protein_res:345,dna_res:955,protein_type:ARG,dna_type:CYT,charge_complementary:True,energy:0.7543901821953077
+300R,protein_pdb:300A,dna_pdb:25C,protein_res:300,dna_res:953,protein_type:ARG,dna_type:CYT,charge_complementary:True,energy:0.5385598282916344
+341K,protein_pdb:341A,dna_pdb:26C,protein_res:341,dna_res:954,protein_type:LYS,dna_type:ADE,charge_complementary:True,energy:0.8855019029087028
+331R,protein_pdb:331A,dna_pdb:27C,protein_res:331,dna_res:955,protein_type:ARG,dna_type:CYT,charge_complementary:True,energy:0.6059625283912919

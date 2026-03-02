@@ -1,0 +1,5 @@
+274R,protein_pdb:274A,dna_pdb:20C,protein_res:274,dna_res:948,protein_type:ARG,dna_type:GUA,charge_complementary:True,energy:-0.6130696062940704
+274R,donor_pdb:274A,acceptor_pdb:20C,donor_res:274,acceptor_res:948,donor_type:ARG,acceptor_type:GUA,acceptor_atom:N3,energy:-0.7866548487439617
+154R,protein_pdb:154A,dna_pdb:6D,protein_res:154,dna_res:974,protein_type:ARG,dna_type:GUA,charge_complementary:True,energy:-2.011734028353701
+154R,protein_pdb:154A,dna_pdb:7D,protein_res:154,dna_res:975,protein_type:ARG,dna_type:GUA,charge_complementary:True,energy:-0.57584115946414
+154R,donor_pdb:154A,acceptor_pdb:6D,donor_res:154,acceptor_res:974,donor_type:ARG,acceptor_type:GUA,acceptor_atom:OP2,energy:-1.0528698104511538
